@@ -1,2 +1,2 @@
 # AsLanguage
-🔵: As Language
+🔣: As Language
